@@ -19,6 +19,6 @@
 
 <h3 align="center">Get In Touch!</h3>
 
-<p align="center"> <a href="https://www.linkedin.com/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://x.com/" target="blank"> <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/> </a> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://x.com/" target="blank"> <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/> </a> <a href="mailto:gour.sarma17@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
 
 <p align="right"><b>@gour.sarma</b></p>
