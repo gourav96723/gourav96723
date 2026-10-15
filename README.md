@@ -1,16 +1,84 @@
-## Hi there 👋
+# 
 
-<!--
-**gourav96723/gourav96723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://vercel.app" alt="header" />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Hi There! 👋</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I’m <strong>gourav</strong>, an undergraduate studying <strong>Computer Science Engineering with a specialization in AI and ML</strong> at <strong>Jagannath University</strong>. 
+  My coursework and practical exploration focus on building intelligent systems, working with modern data structures, and engineering robust web architectures. 
+  You can find my project code and experimental repositories down below!
+</p>
+
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<h4 align="center">Languages & Primary Tech</h4>
+<p align="center">
+  <img src="https://shields.io" alt="JavaScript"/>&nbsp;
+  <img src="https://shields.io" alt="Python"/>&nbsp;
+  <img src="https://shields.io" alt="Java"/>&nbsp;
+  <img src="https://shields.io" alt="Swift"/>&nbsp;
+  <img src="https://shields.io" alt="SQL"/>&nbsp;
+</p>
+
+<h4 align="center">Frontend Engineering</h4>
+<p align="center">
+  <img src="https://shields.io" alt="React"/>&nbsp;
+  <img src="https://shields.io" alt="Vite"/>&nbsp;
+  <img src="https://shields.io" alt="Tailwind CSS"/>&nbsp;
+  <img src="https://shields.io" alt="React Router"/>&nbsp;
+  <img src="https://shields.io" alt="Axios"/>&nbsp;
+  <img src="https://shields.io" alt="Vue.js"/>&nbsp;
+</p>
+
+<h4 align="center">Backend & Database Infrastructure</h4>
+<p align="center">
+  <img src="https://shields.io" alt="Node.js"/>&nbsp;
+  <img src="https://shields.io" alt="Express.js"/>&nbsp;
+  <img src="https://shields.io" alt="MongoDB"/>&nbsp;
+  <img src="https://shields.io" alt="Mongoose"/>&nbsp;
+  <img src="https://shields.io" alt="JWT"/>&nbsp;
+  <img src="https://shields.io" alt="bcrypt"/>&nbsp;
+</p>
+
+<h4 align="center">Desktop Tools & Design</h4>
+<p align="center">
+  <img src="https://shields.io" alt="Electron"/>&nbsp;
+  <img src="https://shields.io" alt="Figma"/>&nbsp;
+  <img src="https://shields.io" alt="Photoshop"/>&nbsp;
+  <img src="https://shields.io" alt="Blender"/>&nbsp;
+</p>
+
+---
+
+<h3 align="center">💻 Featured Project</h3>
+<p align="center">
+  <!-- Replace the username and repo with your own GitHub information below -->
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Featured Project"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">📬 Get In Touch!</h3>
+<p align="center">
+  <!-- Update these links with your personal profiles -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://x.com" target="_blank">
+    <img src="https://shields.io" alt="Twitter"/>
+  </a>&nbsp;
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://shields.io" alt="Gmail"/>
+  </a>&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="footer" />
+</p>
