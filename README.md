@@ -22,7 +22,7 @@
   <img src="https://shields.io" alt="Python"/>&nbsp;
   <img src="https://shields.io" alt="Java"/>&nbsp;
   <img src="https://shields.io" alt="Swift"/>&nbsp;
-  <img src="https://shields.io" alt="SQL"/>&nbsp;
+  <img src="https://shields.io" alt="MySQL"/>&nbsp;
 </p>
 
 <h4 align="center">Frontend Engineering</h4>
@@ -42,7 +42,6 @@
   <img src="https://shields.io" alt="MongoDB"/>&nbsp;
   <img src="https://shields.io" alt="Mongoose"/>&nbsp;
   <img src="https://shields.io" alt="JWT"/>&nbsp;
-  <img src="https://shields.io" alt="bcrypt"/>&nbsp;
 </p>
 
 <h4 align="center">Desktop Tools & Design</h4>
@@ -55,19 +54,8 @@
 
 ---
 
-<h3 align="center">💻 Featured Project</h3>
-<p align="center">
-  <!-- Replace the username and repo with your own GitHub information below -->
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Featured Project"/>
-  </a>
-</p>
-
----
-
 <h3 align="center">📬 Get In Touch!</h3>
 <p align="center">
-  <!-- Update these links with your personal profiles -->
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn"/>
   </a>&nbsp;
