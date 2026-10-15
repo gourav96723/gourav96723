@@ -7,7 +7,7 @@
 <h3 align="center">Hi There! 👋</h3>
 
 <p align="center">
-  I’m <strong>gourav</strong>, an undergraduate studying <strong>Computer Science Engineering with a specialization in AI and ML</strong> at <strong>Jagannath University</strong>. 
+  I’m <strong>gourav</strong>, an undergraduate studying <strong> Computer Science Engineering </strong> at <strong>Jagannath University</strong>. 
   My coursework and practical exploration focus on building intelligent systems, working with modern data structures, and engineering robust web architectures. 
   You can find my project code and experimental repositories down below!
 </p>
