@@ -1,3 +1,4 @@
+<h3 align="center">Hi There! 👋</h3> <p align="center"> Hi, I'm Gourav Sharma, a B.Tech CSE student at Jagannath University, passionate about web development, software engineering, and building innovative projects. 🚀 </p>
 
 <h3 align="center">Tech Stack</h3>
 
