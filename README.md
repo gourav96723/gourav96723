@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="[https://github.com/gourav96723/voltra-ecommerce](https://github.com/gourav96723/Metrohealth)">
+  <a href="https://github.com/gourav96723/Metrohealth">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=gourav96723&repo=voltra-ecommerce&theme=default&hide_border=true"
       alt="Voltra E-commerce Repository Card"
